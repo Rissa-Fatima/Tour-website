@@ -1,0 +1,28 @@
+.wrapper{
+    background-image:url(./bg.jpg);
+    width: 100%;
+    height: 145vh;
+    background-repeat: no-repeat;
+}
+ .navbar{
+   box-shadow: 5px white;
+} 
+ /* .ulli{
+    color: white;
+}  */
+.places{
+    background-color: black;
+    background-size: cover;
+}
+/* .maintxt {position: relative;}
+.maintxt > img, .overlay-text {position: absolute;} */
+.wrap{
+    background-image: url(./bg3.jpg);
+    background-size: 1380px;
+    background-repeat: no-repeat;
+    width: 100%;
+height: 800px;
+}
+.text h1{
+    font-size: 70px !important;
+}
